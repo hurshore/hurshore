@@ -15,12 +15,7 @@ Welcome to my page, I am a self taught software engineer. I enjoy solving challe
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-![Tofunmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hurshore&count_private=true&theme=dark&show_icons=true&&line_height=40)
-
-[twitter]: https://twitter.com/tf_osho
-[linkedin]: https://www.linkedin.com/in/tofunmi-osho-6504891b3/
-[instagram]: https://instagram.com/tf.osho
+<br />
 
 ### Languages and Tools:
 
@@ -30,3 +25,12 @@ Welcome to my page, I am a self taught software engineer. I enjoy solving challe
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+
+![Tofunmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hurshore&count_private=true&theme=dark&show_icons=true&&line_height=40)
+
+[twitter]: https://twitter.com/tf_osho
+[linkedin]: https://www.linkedin.com/in/tofunmi-osho-6504891b3/
+[instagram]: https://instagram.com/tf.osho
+
+
