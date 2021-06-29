@@ -3,9 +3,9 @@
 
 Welcome to my page, I am a self taught software engineer. I enjoy solving challenging problems
 
-- 🔭 I recently launched my first react app - [Social Cube](https://social-cube.netlify.app)
-- 🌱 I’m currently learning new technology to add to my skillset.
-- 👯 I’m looking to collaborate on projects that would sharpen my technical and communication skills as a software engineer.
+- 🔭 I recently built my portfolio. Click [here](https://tofunmiosho.netlify.app/) to check it out.
+- 🌱 I am currently learning mobile development using react native.
+- 👯 I am looking to collaborate on projects that would sharpen my technical and communication skills as a software engineer.
 - 💬 Fun Qoute: "The way to get started is to quit talking and begin doing." - Walt Disney
 -  ⚡ Fun fact: I love singing, gaming and watching football.
 
