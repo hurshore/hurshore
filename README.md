@@ -1,39 +1,26 @@
-### Hi there, I'm Tofunmi Osho 👋
+# 👋 Hi, I'm Jahtofunmi Osho!
+I'm a **Frontend Engineer** who builds efficient, user-friendly applications. I specialize in developing **React Native** mobile apps and full-stack web applications using **React** and **Node.js**.
 
+- 🔭 **What I'm Working On:** Currently leading frontend development at **Edubaloo**, an AI-powered mobile app that helps students ace their exams. Also contributing to **Rexofarm**, an agriculture-focused platform designed to connect various stakeholders in the agricultural ecosystem.
+- 🎓 **Education:** Computer Science graduate from Obafemi Awolowo University, Nigeria.
+- 👯 **Collaboration Interests:** I’d love to collaborate on projects involving **React**, **React Native**, **Node.js**, and **AI**. If you’re solving real-world problems, let’s chat!
+- 🌱 **What I'm Learning:** Currently researching blockchain development and video editing for YouTube.
+- ⚡ Fun fact: I love singing, gaming, and watching football.
 
-Welcome to my page, I am a self taught software engineer. I enjoy solving challenging problems
+---
+## 🚀 Technical Skills
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-- 🔭 I recently built my portfolio. Click [here](https://tofunmiosho.netlify.app/) to check it out.
-- 🌱 I am currently learning mobile development using react native.
-- 👯 I am looking to collaborate on projects that would sharpen my technical and communication skills as a software engineer.
-- 💬 Fun Qoute: "The way to get started is to quit talking and begin doing." - Walt Disney
--  ⚡ Fun fact: I love singing, gaming and watching football.
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
-<br />
-<br />
-
-![Tofunmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hurshore&count_private=true&theme=dark&show_icons=true&&line_height=40)
-
-[twitter]: https://twitter.com/tf_osho
-[linkedin]: https://www.linkedin.com/in/tofunmi-osho-6504891b3/
-[instagram]: https://instagram.com/tf.osho
-
-
+---
+## 📫 Let's connect
+- LinkedIn: [Jahtofunmi Osho](https://linkedin.com/in/jahtofunmi)
+- Portfolio: [jahtofunmi.netlify.app](https://tofunmiosho.netlify.app)
+- Email: [oshotofunmi@gmail.com](mailto:oshotofunmi@gmail.com)
+---
